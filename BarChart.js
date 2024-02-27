@@ -760,7 +760,7 @@ class StackedBarChart {
             if (this.barStroke == false) {
                 noStroke();
             };
-
+            
             //Draws the stacked bars
             push();
             for (let j = 0; j < this.yValues.length; j++) {
