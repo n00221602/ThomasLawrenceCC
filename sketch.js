@@ -374,7 +374,7 @@ function setup() {
         totalValue: "Total",
         legendSize: 30,
         legendPadding: 40,
-
+        
         chartLabel: "Dublin Apartment prices (2008 - 2022)",
         xChartLabel: "Year",
         yChartLabel: "Total (in Euros)",
